@@ -1,17 +1,8 @@
 <div align="center">
-  <table border="0" style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td width="65%" style="border: none; vertical-align: middle;">
-        <h1>Hi 👋, I'm Sandeep Kumar Tiparthi</h1>
-        <h3>Software Developer • Computer Science Engineer • Full-Stack & AI Builder</h3>
-        <p>Designing efficient, user-centric systems that solve real-world problems through innovative technology.</p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=58A6FF&width=450&lines=Software+Developer;Full-Stack+%26+AI+Builder;React+%7C+Node.js+%7C+Django;Always+Learning+Something+New" alt="Typing SVG" />
-      </td>
-      <td width="35%" align="center" style="border: none; vertical-align: middle;">
-        <img src="./assets/sandeep.png" width="200" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 2px solid #58A6FF;" alt="Sandeep Kumar" />
-      </td>
-    </tr>
-  </table>
+  <h1>Hi 👋, I'm Sandeep Kumar Tiparthi</h1>
+  <h3>Software Developer • Computer Science Engineer • Full-Stack & AI Builder</h3>
+  <p>Designing efficient, user-centric systems that solve real-world problems through innovative technology.</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=58A6FF&width=450&lines=Software+Developer;Full-Stack+%26+AI+Builder;React+%7C+Node.js+%7C+Django;Always+Learning+Something+New" alt="Typing SVG" />
 </div>
 
 ---
